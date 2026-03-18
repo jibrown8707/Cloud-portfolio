@@ -22,9 +22,16 @@ Hosted on AWS using:
 ### Amplify React Deployment
 ![Amplify React Deployment](diagrams/amplify-react-deployment.png)
 
+### AI Support Knowledge Assistant (RAG)
+
+An AI-powered support assistant built using Amazon Bedrock and Retrieval-Augmented Generation (RAG).
+
+[View Project](https://github.com/jibrown8707/AI-Support-Knowledge-Assistant-RAG)
+
 ## Projects
 - Static Website Hosting with S3 + CloudFront
 - Serverless REST API with API Gateway and AWS Lambda
 - Amplify React Deployment
+- AI powered support assistant built using Amazon Bedrock and Retrieval Augmented Generation
 
 This portfolio demonstrates foundational AWS architecture, security best practices, and cloud-native design.
